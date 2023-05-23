@@ -69,6 +69,7 @@ plt.show()
 
 ```{code-cell} ipython3
 import pyodbc
+import pandas as pd
 ```
 
 Let\'s break this program down and see how it works.
