@@ -67,6 +67,10 @@ plt.plot(ϵ_values)
 plt.show()
 ```
 
+```{code-cell} ipython3
+import pyodbc
+```
+
 Let\'s break this program down and see how it works.
 
 (import)=
